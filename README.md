@@ -69,6 +69,7 @@ Status	       Meaning
   
 <img width="945" height="502" alt="image" src="https://github.com/user-attachments/assets/0d50ac13-7090-45b9-879e-5ac14f0e1dea" />
 <img width="945" height="503" alt="image" src="https://github.com/user-attachments/assets/0210f6ce-b27a-407f-aa54-47f4d369714b" />
+
 - API tests
   
 Deals_success:
@@ -77,6 +78,7 @@ Deals_partial:
 <img width="945" height="501" alt="image" src="https://github.com/user-attachments/assets/657f5aff-535a-4c19-b013-9e6cff8af462" />
 Deals_invalid:
 <img width="945" height="501" alt="image" src="https://github.com/user-attachments/assets/cab822e7-5f47-45da-83c5-5b6fe8208d8d" />
+
 - K6 load test
   
 <img width="945" height="501" alt="image" src="https://github.com/user-attachments/assets/cd7ac114-0b39-4dfd-9478-103ed4c98e6a" />
