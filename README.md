@@ -61,12 +61,23 @@ Status	       Meaning
 500	           Unexpected server error
 
 ## Tests 
-- Run `mvn test` to execute unit & Integration tests.
+- Run `mvn test` to execute Unit & Integration tests.
 - Run `k6 run load-test.js` to execute K6 test.
 
 ## Results
-
-
+- Unit & Integration tests
+<img width="945" height="502" alt="image" src="https://github.com/user-attachments/assets/0d50ac13-7090-45b9-879e-5ac14f0e1dea" />
+<img width="945" height="503" alt="image" src="https://github.com/user-attachments/assets/0210f6ce-b27a-407f-aa54-47f4d369714b" />
+- API tests
+Deals_success:
+<img width="945" height="503" alt="image" src="https://github.com/user-attachments/assets/1bfef8d2-109c-4300-9d54-66d37fa7d34e" />
+Deals_partial:
+<img width="945" height="501" alt="image" src="https://github.com/user-attachments/assets/657f5aff-535a-4c19-b013-9e6cff8af462" />
+Deals_invalid:
+<img width="945" height="501" alt="image" src="https://github.com/user-attachments/assets/cab822e7-5f47-45da-83c5-5b6fe8208d8d" />
+- K6 load test
+<img width="945" height="501" alt="image" src="https://github.com/user-attachments/assets/cd7ac114-0b39-4dfd-9478-103ed4c98e6a" />
+<img width="1920" height="1018" alt="image" src="https://github.com/user-attachments/assets/45150d70-c2c9-4277-a838-56f517bbef3b" />
 
 ## 👩‍💻 Maintainer
 Lamiae Announ — Software Engineer (QA/Testing focus)
