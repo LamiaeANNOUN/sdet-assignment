@@ -1,0 +1,4 @@
+dealUniqueId,orderingCurrency,counterCurrency,amount,dealTimestamp
+,USD,EUR,1000,invalid-timestamp
+D7,US,EU,500,-50
+D8,JPY,,2000,2025-11-29T18:00:00Z

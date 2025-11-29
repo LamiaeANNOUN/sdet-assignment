@@ -1,0 +1,37 @@
+{
+  "info": {
+    "name": "FX Deals API",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Import Deals",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "[\n  {\n    \"dealUniqueId\":\"D1\",\n    \"orderingCurrency\":\"USD\",\n    \"counterCurrency\":\"EUR\",\n    \"dealTimestamp\":\"2025-11-28T12:00:00Z\",\n    \"amount\":1000.0\n  }\n]"
+        },
+        "url": {
+          "raw": "http://localhost:8080/api/deals/import",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "8080",
+          "path": [
+            "api",
+            "deals",
+            "import"
+          ]
+        }
+      }
+    }
+  ]
+}

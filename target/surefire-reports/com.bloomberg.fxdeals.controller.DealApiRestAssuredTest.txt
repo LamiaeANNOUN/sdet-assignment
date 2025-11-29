@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.bloomberg.fxdeals.controller.DealApiRestAssuredTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 103.6 s -- in com.bloomberg.fxdeals.controller.DealApiRestAssuredTest

@@ -1,0 +1,11 @@
+com\bloomberg\fxdeals\service\DealService.class
+com\bloomberg\fxdeals\dto\DealResponse.class
+com\bloomberg\fxdeals\repository\DealRepository.class
+com\bloomberg\fxdeals\dto\DealRequest.class
+com\bloomberg\fxdeals\dto\RowResult.class
+com\bloomberg\fxdeals\entity\DealEntity.class
+com\bloomberg\fxdeals\exception\InvalidDealException.class
+com\bloomberg\fxdeals\FxDealsWarehouseApplication.class
+com\bloomberg\fxdeals\controller\DealController.class
+com\bloomberg\fxdeals\exception\DuplicateDealException.class
+com\bloomberg\fxdeals\validation\DealValidator.class

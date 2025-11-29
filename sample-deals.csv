@@ -1,0 +1,4 @@
+dealUniqueId,orderingCurrency,counterCurrency,amount,dealTimestamp
+D1,USD,EUR,1000,2025-11-29T12:00:00+01
+D2,GBP,USD,500,2025-11-29T13:00:00+01
+D3,EUR,USD,700,2025-11-29T14:00:00+01

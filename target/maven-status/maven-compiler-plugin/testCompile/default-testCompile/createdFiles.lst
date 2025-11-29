@@ -1,0 +1,4 @@
+com\bloomberg\fxdeals\validation\DealValidatorTest.class
+com\bloomberg\fxdeals\controller\DealApiRestAssuredTest.class
+com\bloomberg\fxdeals\service\DealServiceTest.class
+com\bloomberg\fxdeals\controller\DealControllerTest.class
