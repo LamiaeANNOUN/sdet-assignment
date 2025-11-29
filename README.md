@@ -11,7 +11,7 @@ Designed for SDET & QA evaluation, including unit, integration, and load tests.
 - Maven
 - PostgreSQL (for dev profile) 
 
-Folder/File Purpose
+## Folder/File Purpose
 
 src/main/java – main Spring Boot application code
 
@@ -21,7 +21,7 @@ src/test/resources – sample CSV/JSON files for tests
 
 k6-scripts – K6 performance testing scripts
 
-README.md – instructions, API info, assumptions, and screenshots
+README.md – instructions, API info, and screenshots
 
 
 ## Run with PostgreSQL 
@@ -68,6 +68,6 @@ Status	       Meaning
 
 
 
-👩‍💻 Maintainer
+## 👩‍💻 Maintainer
 Lamiae Announ — Software Engineer (QA/Testing focus)
 
