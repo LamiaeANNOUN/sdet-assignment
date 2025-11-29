@@ -54,11 +54,10 @@ D2,GBP,JPY,500.00,2025-11-29T09:30:00Z
 ]
 
 ## Status codes
-Status	       Meaning
-200 OK	       All rows imported successfully
-207	           Partial success (some rows failed, some saved)
-400	           All rows failed validation
-500	           Unexpected server error
+200 OK  -->  All rows imported successfully
+207     -->  Partial success (some rows failed, some saved)
+400	  -->  All rows failed validation
+500	  -->  Unexpected server error
 
 ## Tests 
 - Run `mvn test` to execute Unit & Integration tests.
